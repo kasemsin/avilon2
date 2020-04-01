@@ -17,7 +17,7 @@ Design and Developed by: iqonicthemes.in
 :: Buttons
 :: Page Section Margin Padding
 :: Text Weight
-:: Text Color
+:: Text Color 
 :: Font Size
 :: Background Color
 :: BG Effect
@@ -247,11 +247,11 @@ label { font-size: 15px; font-weight: 400; color: #aaaaaa; }
 .iq-box-shadow { position: relative; z-index: 9; -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1); }
 
 /*---------------------------------------------------------------------
-                    Page Section Margin Padding
+                    Page Section Margin Padding 
 ---------------------------------------------------------------------*/
 
 /*----------------
-Section padding
+Section padding 
 ----------------*/
 
 .overview-block-ptb { padding: 100px 0; }
@@ -259,7 +259,7 @@ Section padding
 .overview-block-pb { padding: 0 0 100px; }
 
 /*----------------
-Padding All
+Padding All 
 ----------------*/
 .iq-pall { padding: 0px; }
 .iq-pall-10 { padding: 10px; }
@@ -276,7 +276,7 @@ Padding All
 .iq-pall-100 { padding: 100px; }
 
 /*----------------
-Padding Top and Bottom
+Padding Top and Bottom 
 ----------------*/
 .iq-ptb-0 { padding: 0; }
 .iq-ptb-10 { padding: 10px 0; }
@@ -293,7 +293,7 @@ Padding Top and Bottom
 .iq-ptb-100 { padding: 100px 0; }
 
 /*----------------
-Padding Left and right
+Padding Left and right 
 ----------------*/
 .iq-plr-0 { padding: 0; }
 .iq-plr-10 { padding: 0 10px; }
@@ -310,7 +310,7 @@ Padding Left and right
 .iq-plr-100 { padding: 0 100px; }
 
 /*----------------
-Padding top
+Padding top 
 ----------------*/
 .iq-pt-0 { padding-top: 0px; }
 .iq-pt-10 { padding-top: 10px; }
@@ -327,7 +327,7 @@ Padding top
 .iq-pt-100 { padding-top: 100px; }
 
 /*----------------
-Padding Bottom
+Padding Bottom 
 ----------------*/
 .iq-pb-0 { padding-bottom: 0px; }
 .iq-pb-10 { padding-bottom: 10px; }
@@ -344,7 +344,7 @@ Padding Bottom
 .iq-pb-100 { padding-bottom: 100px; }
 
 /*----------------
-Padding Left
+Padding Left 
 ----------------*/
 .iq-pl-0 { padding-left: 0; }
 .iq-pl-10 { padding-left: 10px; }
@@ -361,7 +361,7 @@ Padding Left
 .iq-pl-100 { padding-left: 100px; }
 
 /*----------------
-Padding Right
+Padding Right 
 ----------------*/
 .iq-pr-0 { padding-right: 0px; }
 .iq-pr-10 { padding-right: 10px; }
@@ -378,7 +378,7 @@ Padding Right
 .iq-pr-100 { padding-right: 100px; }
 
 /*----------------
-Margin All
+Margin All 
 ----------------*/
 .iq-mall-0 { margin: 0; }
 .iq-mall-10 { margin: 10px; }
@@ -395,7 +395,7 @@ Margin All
 .iq-mall-100 { margin: 100px; }
 
 /*----------------
-Margin Top and Bottom
+Margin Top and Bottom 
 ----------------*/
 .iq-mtb-0 { margin: 0; }
 .iq-mtb-10 { margin: 10px 0; }
@@ -412,7 +412,7 @@ Margin Top and Bottom
 .iq-mtb-100 { margin: 100px 0; }
 
 /*----------------
-Margin Left and Right
+Margin Left and Right 
 ----------------*/
 .iq-mlr-0 { margin: 0; }
 .iq-mlr-10 { margin: 0 10px; }
@@ -429,7 +429,7 @@ Margin Left and Right
 .iq-mlr-100 { margin: 0 100px; }
 
 /*----------------
-Margin Top
+Margin Top 
 ----------------*/
 .iq-mt-0 { margin-top: 0px; }
 .iq-mt-5 { margin-top: 5px; }
@@ -447,7 +447,7 @@ Margin Top
 .iq-mt-100 { margin-top: 100px; }
 
 /*----------------
-Margin Bottom
+Margin Bottom 
 ----------------*/
 .iq-mb-0 { margin-bottom: 0px; }
 .iq-mb-10 { margin-bottom: 10px; }
@@ -464,7 +464,7 @@ Margin Bottom
 .iq-mb-100 { margin-bottom: 100px; }
 
 /*----------------
-Margin Left
+Margin Left 
 ----------------*/
 .iq-ml-0 { margin-left: 0px; }
 .iq-ml-10 { margin-left: 10px; }
@@ -498,7 +498,7 @@ Margin Right
 .iq-mr-100 { margin-right: 100px; }
 
 /*---------------------------------------------------------------------
-                            Text Weight
+                            Text Weight 
 -----------------------------------------------------------------------*/
 .iq-tw-1 { font-weight: 100; }
 .iq-tw-2 { font-weight: 200; }
@@ -511,7 +511,7 @@ Margin Right
 .iq-tw-9 { font-weight: 900; }
 
 /*---------------------------------------------------------------------
-                            Text Color
+                            Text Color 
 -----------------------------------------------------------------------*/
 .iq-font-blue { color: #00c8c8; }
 .iq-font-white { color: #ffffff; }
@@ -519,13 +519,13 @@ Margin Right
 .iq-font-light { color: #666666; }
 
 /*---------------------------------------------------------------------
-                            Font Size
+                            Font Size 
 -----------------------------------------------------------------------*/
 .iq-font-15 { font-size: 15px; }
 .iq-font-30 { font-size: 30px; }
 
 /*---------------------------------------------------------------------
-                          Background Color
+                          Background Color 
 -----------------------------------------------------------------------*/
 .white-bg { background: #ffffff; }
 .grey-bg { background: #f5f7fb; }
@@ -539,7 +539,7 @@ Margin Right
 .iq-parallax { position: relative; background-size: cover !important; -webkit-background-size: cover !important; -moz-background-size: cover !important; -ms-background-size: cover !important; background-origin: initial; background-position: center center !important; background-repeat: no-repeat; }
 
 /*---------------------------------------------------------------------
-                       Background Gradient
+                       Background Gradient 
 ---------------------------------------------------------------------*/
 .iq-bg-over { position: relative; }
 
@@ -585,7 +585,7 @@ Margin Right
 /* Section title white */
 .heading-title.white .title { color: #fff; }
 .heading-title.white .title:before { background: #fff; }
-.iq-fadebounce { -webkit-animation-name: fadebounce; -moz--o-animation-iteration-count: infinite; animation-iteration-count: infinite; }
+.iq-fadebounce { -webkit-animation-name: fadebounce; -moz-animation-name: fadebounce; -ms-animation-name: fadebounce; -o-animation-name: fadebounce; animation-name: fadebounce; -webkit-animation-duration: 3s; -moz-animation-duration: 3s; -ms-animation-duration: 3s; -o-animation-duration: 3s; animation-duration: 3s; -webkit-animation-iteration-count: infinite; -moz-animation-iteration-count: infinite; -ms-animation-iteration-count: infinite; -o-animation-iteration-count: infinite; animation-iteration-count: infinite; }
 @-moz-keyframes fadebounce {
   0% { -moz-transform: translateY(0); transform: translateY(0); opacity: 1 }
   50% { -moz-transform: translateY(20px); transform: translateY(20px); opacity: 1 }
@@ -951,7 +951,7 @@ to { -webkit-transform: rotateX(143deg) rotateY(50deg) rotateZ(0); transform: ro
 78% { opacity: 0; }
 100% { opacity: 0; stroke-dashoffset: 0; }
 }
-@media (max-width:1920px) {
+@media (max-width:1023px) {
 .ani.ani-1 { -webkit-transform: scale(0.5); transform: scale(0.5); }
 .ani.ani-2 { top: 120px; -webkit-transform: scale(0.3); transform: scale(0.3); }
 .ani.ani-5 { top: 80%; }
