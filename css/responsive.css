@@ -37,7 +37,7 @@ NOTE: This file contains the styling for responsive Template.
 @media(max-width:1199px) {
 
 	/*----------------
-	Section padding 
+	Section padding
 	----------------*/
 	.overview-block-ptb { padding: 80px 0; }
 	.overview-block-pt { padding: 80px 0 0; }
@@ -182,7 +182,7 @@ NOTE: This file contains the styling for responsive Template.
 @media(max-width:767px) {
 
 	/*----------------
-		Section padding 
+		Section padding
 		----------------*/
 	.overview-block-ptb { padding: 50px 0; }
 	.overview-block-pt { padding: 50px 0 0; }
@@ -237,14 +237,14 @@ NOTE: This file contains the styling for responsive Template.
 	.iq-banner.wave-one .banner-text {
     margin-top: 15%;}
     .iq-banner-11 .container-fluid { padding: 20px; }
-    .iq-banner-11 .banner-text h1 { font-size: 40px; } 
+    .iq-banner-11 .banner-text h1 { font-size: 40px; }
     .iq-banner-09 .form-group { width: 100%; }
     .iq-banner-09 .form-inline .button { margin-left: 0; }
     .iq-newsletter .form-group { margin-bottom: 20px; }
 
 }
 @media(max-width:479px) {
-	.iq-banner .banner-text h1 { font-size: 28px; }
+	.iq-banner .banner-text h1 { font-size: 20px; }
 	.iq-banner .banner-text { margin-top: 50px; }
 	.iq-banner .banner-img, .iq-works-img { margin-top: 20px; }
 	.iq-objects-software .iq-objects-03 { left: 0; }
