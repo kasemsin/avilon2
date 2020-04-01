@@ -14,10 +14,19 @@ NOTE: This file contains the styling for responsive Template.
  (  Media Queries  )
 ================================================
  *******************/
+ @media(max-width:1720px) {
+ 	.iq-banner .banner-text h1 { font-size: 60px; }
+
+ }
+
+ @media(max-width:1631px) {
+ 	.iq-banner .banner-text h1 { font-size: 50px; }
+
+ }
 @media(min-width:1601px) {
  .get-feature img { width: 74%; } }
 @media(max-width:1399px) {
-	.iq-banner .banner-text h1 { font-size: 56px; }
+	.iq-banner .banner-text h1 { font-size: 48px; }
 	.counter-info-img img { width: 118%; margin-top: 0; }
 	.counter-info .waves-box { left: 54%; }
 	.iq-objects .iq-objects-04, .iq-objects-software .iq-objects-03 { border: 48px solid #00c8c8; height: 500px; width: 500px; }
@@ -27,7 +36,15 @@ NOTE: This file contains the styling for responsive Template.
 	.get-feature img { width: 100%; margin-top: -86px; margin-left: 0; }
 }
 @media(max-width:1365px) {
-	.iq-banner .banner-text h1 { font-size: 50px; }
+	.iq-banner .banner-text h1 { font-size: 44px; }
+	.owl-carousel .owl-nav .owl-prev { left: -4%; }
+	.owl-carousel .owl-nav .owl-next { right: -4%; }
+	.counter-info-img img { width: 111%; margin-top: 10px; }
+	.counter-info .waves-box { top: 41%; left: 50%; }
+	.iq-works-img { width: 110%; }
+}
+@media(max-width:1255px) {
+	.iq-banner .banner-text h1 { font-size: 40px; }
 	.owl-carousel .owl-nav .owl-prev { left: -4%; }
 	.owl-carousel .owl-nav .owl-next { right: -4%; }
 	.counter-info-img img { width: 111%; margin-top: 10px; }
@@ -37,14 +54,74 @@ NOTE: This file contains the styling for responsive Template.
 @media(max-width:1199px) {
 
 	/*----------------
-	Section padding 
+	Section padding
 	----------------*/
 	.overview-block-ptb { padding: 80px 0; }
 	.overview-block-pt { padding: 80px 0 0; }
 	.overview-block-pb { padding: 0 0 80px; }
 	header .navbar .navbar-nav>li { margin: 0 20px 0 0; }
 	header .container-fluid, .iq-banner .container-fluid, .iq-banner-04 .container-fluid { padding: 0px 45px; }
-	.iq-banner .banner-text h1 { font-size: 44px; }
+	.iq-banner .banner-text h1 { font-size: 40px; }
+	.iq-banner .banner-text p.iq-mb-40 { margin-bottom: 20px; }
+	.iq-banner .banner-text { margin-bottom: 40px; }
+	.iq-banner .banner-img { width: 116%; }
+	.iq-objects .iq-objects-01 { opacity: 0.2; }
+	.iq-works-img { width: 100%; }
+	.counter-info-img img { margin-top: 0; width: 100%; }
+	.iq-banner .banner-img { width: 100%; }
+	.owl-carousel .owl-nav .owl-prev { left: 0%; }
+	.owl-carousel .owl-nav .owl-next { right: 0%; }
+	.slider-container .slider-content { width: 85%; height: 85%; }
+	.slider-container .slider-left { right: 100%; }
+	.slider-container .slider-right { left: 100%; }
+	.iq-software-demo { top: 23%; }
+	.iq-objects .iq-objects-04, .iq-objects-software .iq-objects-03 { border: 48px solid #00c8c8; height: 400px; width: 400px; }
+	.iq-objects .iq-objects-04 { top: 13%; }
+	.iq-objects-software .iq-objects-03 { top: 15%; }
+	.iq-amazing-tab .nav.nav-tabs li a { padding: 20px; }
+	.iq-objects-software .iq-objects-01 { top: 16%; }
+	.how-works { padding-bottom: 0; }
+	.counter i { margin-right: 15px; }
+	.counter-info .waves-box { top: 29%; left: 43%; }
+	.iq-newsletter .form-group { width: 67%; }
+	.info-share li { margin: 0px 2px; }
+	.container { max-width: 94%; }
+	.counter label { font-size: 16px; }
+	.counter span { font-size: 36px; }
+	.iq-footer-box .iq-icon i { margin-right: 9px; }
+	.iq-blog-meta ul li { font-size: 15px; }
+	.iq-fancy-box { padding: 40px 13px 25px 13px; }
+	.iq-banner-04 .banner-text h1 { font-size: 46px; }
+	.iq-banner-04 .banner-text p.iq-mb-40 { margin-bottom: 20px; }
+	.Product-works { padding-bottom: 80px; }
+	.iq-software-demo { height: 75%; top: 26%; }
+	.iq-more-info .row.iq-mt-30 { margin: 30px 0; }
+	.our-pricing-1 { padding-top: 80px; }
+	.iq-feature-01 .overview-block-ptb { padding-top: 0; }
+	.our-pricing { padding-top: 0; }
+	.life-work .iq-software-demo-1 { top: 150px; }
+	.life-work-1 h2 { margin-top: 0; }
+	.iq-tool-feature { margin-top: -45px; }
+	.soft-about .box-img1 { right: 120px; }
+	.soft-about .box-img6 { right: 120px; }
+	.soft-about .box-img3 { right: 350px; }
+	.soft-about .box-img4 { right: 500px; top: 60px; }
+	.soft-about .box-img5 { top: -40px; }
+	.box-mail img { width: 100%; margin-top: -112px; }
+	.get-feature .iq-text-right { padding-right: 0; }
+	.get-feature img { width: 100%; margin-top: 0; margin-left: 0; }
+}
+@media(max-width:1072px) {
+
+	/*----------------
+	Section padding
+	----------------*/
+	.overview-block-ptb { padding: 80px 0; }
+	.overview-block-pt { padding: 80px 0 0; }
+	.overview-block-pb { padding: 0 0 80px; }
+	header .navbar .navbar-nav>li { margin: 0 20px 0 0; }
+	header .container-fluid, .iq-banner .container-fluid, .iq-banner-04 .container-fluid { padding: 0px 45px; }
+	.iq-banner .banner-text h1 { font-size: 36px; }
 	.iq-banner .banner-text p.iq-mb-40 { margin-bottom: 20px; }
 	.iq-banner .banner-text { margin-bottom: 40px; }
 	.iq-banner .banner-img { width: 116%; }
@@ -182,7 +259,7 @@ NOTE: This file contains the styling for responsive Template.
 @media(max-width:767px) {
 
 	/*----------------
-		Section padding 
+		Section padding
 		----------------*/
 	.overview-block-ptb { padding: 50px 0; }
 	.overview-block-pt { padding: 50px 0 0; }
@@ -237,7 +314,7 @@ NOTE: This file contains the styling for responsive Template.
 	.iq-banner.wave-one .banner-text {
     margin-top: 15%;}
     .iq-banner-11 .container-fluid { padding: 20px; }
-    .iq-banner-11 .banner-text h1 { font-size: 40px; } 
+    .iq-banner-11 .banner-text h1 { font-size: 40px; }
     .iq-banner-09 .form-group { width: 100%; }
     .iq-banner-09 .form-inline .button { margin-left: 0; }
     .iq-newsletter .form-group { margin-bottom: 20px; }
